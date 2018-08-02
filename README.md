@@ -7,4 +7,4 @@ This plugin enables the style selector for FMX.Forms.TFrame.
 
 ## Supported versions
 
-RAD Studio XE8 - 10.2 Berlin
+RAD Studio XE8 - 10.2 Tokyo
